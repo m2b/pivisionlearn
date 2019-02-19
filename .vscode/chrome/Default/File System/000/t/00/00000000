@@ -7515,3 +7515,535 @@
 [14603.772s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
 [14606.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12625.563 seconds.
 [14606.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12625.563 seconds.
+[14611.640s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12630.577 seconds.
+[14611.641s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12630.577 seconds.
+[14614.626s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14614.763s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14614.764s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14617.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12636.563 seconds.
+[14617.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12636.563 seconds.
+[14622.637s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12641.574 seconds.
+[14622.638s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12641.574 seconds.
+[14625.627s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14625.756s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14625.757s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14628.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12647.563 seconds.
+[14628.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12647.563 seconds.
+[14633.644s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12652.581 seconds.
+[14633.644s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12652.581 seconds.
+[14636.626s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14636.767s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14636.769s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14639.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12658.563 seconds.
+[14639.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12658.563 seconds.
+[14644.642s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12663.579 seconds.
+[14644.643s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12663.579 seconds.
+[14647.626s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14647.761s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14647.761s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14650.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12669.563 seconds.
+[14650.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12669.563 seconds.
+[14655.640s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12674.577 seconds.
+[14655.641s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12674.577 seconds.
+[14658.626s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14658.768s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14658.769s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14661.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12680.563 seconds.
+[14661.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12680.563 seconds.
+[14666.685s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12685.622 seconds.
+[14666.686s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12685.622 seconds.
+[14669.625s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14669.753s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14669.753s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14672.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12691.563 seconds.
+[14672.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12691.563 seconds.
+[14677.635s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12696.572 seconds.
+[14677.635s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12696.572 seconds.
+[14680.626s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14680.753s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14680.753s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14683.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12702.562 seconds.
+[14683.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12702.562 seconds.
+[14688.635s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12707.572 seconds.
+[14688.636s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12707.572 seconds.
+[14691.626s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14691.808s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14691.808s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14694.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12713.562 seconds.
+[14694.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12713.562 seconds.
+[14699.630s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12718.567 seconds.
+[14699.632s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12718.567 seconds.
+[14702.625s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14702.767s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14702.768s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14705.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12724.562 seconds.
+[14705.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12724.562 seconds.
+[14710.635s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12729.572 seconds.
+[14710.635s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12729.572 seconds.
+[14713.625s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14713.754s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14713.755s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14716.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12735.561 seconds.
+[14716.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12735.561 seconds.
+[14721.635s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12740.572 seconds.
+[14721.635s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12740.572 seconds.
+[14724.625s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14724.764s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14724.764s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14727.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12746.561 seconds.
+[14727.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12746.561 seconds.
+[14732.632s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12751.569 seconds.
+[14732.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12751.569 seconds.
+[14735.625s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14735.757s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14735.758s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14738.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12757.562 seconds.
+[14738.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12757.562 seconds.
+[14743.632s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12762.569 seconds.
+[14743.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12762.569 seconds.
+[14746.624s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14746.741s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14746.742s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14749.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12768.561 seconds.
+[14749.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12768.561 seconds.
+[14754.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12773.57 seconds.
+[14754.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12773.57 seconds.
+[14757.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14757.762s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14757.762s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14760.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12779.561 seconds.
+[14760.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12779.561 seconds.
+[14765.638s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12784.575 seconds.
+[14765.639s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12784.575 seconds.
+[14768.625s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14768.744s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14768.744s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14771.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12790.56 seconds.
+[14771.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12790.56 seconds.
+[14776.634s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12795.571 seconds.
+[14776.634s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12795.571 seconds.
+[14779.624s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14779.761s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14779.762s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14782.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12801.561 seconds.
+[14782.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12801.561 seconds.
+[14787.632s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12806.569 seconds.
+[14787.632s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12806.569 seconds.
+[14790.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14790.751s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14790.752s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14793.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12812.56 seconds.
+[14793.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12812.56 seconds.
+[14798.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12817.566 seconds.
+[14798.631s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12817.566 seconds.
+[14801.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14801.753s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14801.754s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14804.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12823.56 seconds.
+[14804.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12823.56 seconds.
+[14809.631s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12828.568 seconds.
+[14809.631s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12828.568 seconds.
+[14812.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14812.758s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14812.759s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14815.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12834.56 seconds.
+[14815.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12834.56 seconds.
+[14820.631s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12839.568 seconds.
+[14820.631s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12839.568 seconds.
+[14823.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14823.757s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14823.758s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14826.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12845.559 seconds.
+[14826.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12845.559 seconds.
+[14831.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12850.57 seconds.
+[14831.634s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12850.57 seconds.
+[14834.622s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14834.763s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14834.763s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14837.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12856.559 seconds.
+[14837.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12856.559 seconds.
+[14842.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12861.57 seconds.
+[14842.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12861.57 seconds.
+[14845.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14845.749s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14845.750s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14848.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12867.559 seconds.
+[14848.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12867.559 seconds.
+[14853.635s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12872.572 seconds.
+[14853.635s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12872.572 seconds.
+[14856.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14856.772s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14856.772s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14859.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12878.558 seconds.
+[14859.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12878.558 seconds.
+[14864.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12883.57 seconds.
+[14864.634s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12883.57 seconds.
+[14867.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14867.758s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14867.759s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14870.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12889.559 seconds.
+[14870.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12889.559 seconds.
+[14876.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12895.558 seconds.
+[14876.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12895.558 seconds.
+[14878.622s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14878.764s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14878.764s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14881.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12900.562 seconds.
+[14881.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12900.562 seconds.
+[14887.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12906.557 seconds.
+[14887.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12906.557 seconds.
+[14889.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14889.755s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14889.755s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14892.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12911.559 seconds.
+[14892.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12911.559 seconds.
+[14897.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12916.565 seconds.
+[14897.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12916.565 seconds.
+[14900.622s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14900.759s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14900.759s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14903.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12922.557 seconds.
+[14903.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12922.557 seconds.
+[14908.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12927.565 seconds.
+[14908.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12927.565 seconds.
+[14911.620s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14911.749s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14911.749s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14914.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12933.558 seconds.
+[14914.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12933.558 seconds.
+[14919.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12938.566 seconds.
+[14919.630s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12938.566 seconds.
+[14922.621s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14922.742s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14922.742s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14925.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12944.557 seconds.
+[14925.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12944.557 seconds.
+[14930.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12949.563 seconds.
+[14930.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12949.563 seconds.
+[14933.620s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14933.754s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14933.755s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14936.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12955.558 seconds.
+[14936.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12955.558 seconds.
+[14941.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12960.566 seconds.
+[14941.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12960.566 seconds.
+[14944.621s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14944.763s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14944.764s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14947.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12966.558 seconds.
+[14947.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12966.558 seconds.
+[14952.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12971.565 seconds.
+[14952.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12971.565 seconds.
+[14955.620s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14955.900s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14955.900s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14958.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12977.557 seconds.
+[14958.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12977.557 seconds.
+[14963.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12982.564 seconds.
+[14963.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12982.564 seconds.
+[14966.623s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14966.749s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14966.750s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14969.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12988.557 seconds.
+[14969.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12988.557 seconds.
+[14974.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12993.565 seconds.
+[14974.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12993.565 seconds.
+[14977.620s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14977.754s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14977.754s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14980.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 12999.557 seconds.
+[14980.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 12999.557 seconds.
+[14985.632s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13004.569 seconds.
+[14985.632s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13004.569 seconds.
+[14988.620s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14988.756s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14988.757s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[14991.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13010.556 seconds.
+[14991.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13010.556 seconds.
+[14996.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13015.57 seconds.
+[14996.633s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13015.57 seconds.
+[14999.620s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[14999.768s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[14999.768s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15002.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13021.556 seconds.
+[15002.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13021.556 seconds.
+[15007.637s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13026.574 seconds.
+[15007.638s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13026.574 seconds.
+[15010.619s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15010.760s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15010.760s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15013.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13032.556 seconds.
+[15013.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13032.556 seconds.
+[15018.658s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13037.595 seconds.
+[15018.658s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13037.595 seconds.
+[15021.619s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15021.739s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15021.741s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15024.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13043.555 seconds.
+[15024.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13043.555 seconds.
+[15029.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13048.566 seconds.
+[15029.630s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13048.566 seconds.
+[15032.618s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15032.758s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15032.759s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15035.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13054.555 seconds.
+[15035.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13054.555 seconds.
+[15040.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13059.562 seconds.
+[15040.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13059.562 seconds.
+[15043.619s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15043.748s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15043.749s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15046.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13065.554 seconds.
+[15046.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13065.554 seconds.
+[15051.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13070.563 seconds.
+[15051.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13070.563 seconds.
+[15054.619s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15054.746s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15054.747s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15057.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13076.556 seconds.
+[15057.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13076.556 seconds.
+[15062.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13081.562 seconds.
+[15062.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13081.562 seconds.
+[15065.618s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15065.765s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15065.765s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15068.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13087.555 seconds.
+[15068.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13087.555 seconds.
+[15073.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13092.566 seconds.
+[15073.630s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13092.566 seconds.
+[15076.618s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15076.747s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15076.748s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15079.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13098.554 seconds.
+[15079.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13098.554 seconds.
+[15084.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13103.564 seconds.
+[15084.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13103.564 seconds.
+[15087.617s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15087.743s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15087.744s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15090.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13109.554 seconds.
+[15090.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13109.554 seconds.
+[15095.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13114.565 seconds.
+[15095.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13114.565 seconds.
+[15098.617s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15098.764s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15098.765s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15101.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13120.555 seconds.
+[15101.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13120.555 seconds.
+[15106.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13125.56 seconds.
+[15106.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13125.56 seconds.
+[15109.617s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15109.745s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15109.746s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15112.616s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13131.553 seconds.
+[15112.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13131.553 seconds.
+[15117.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13136.564 seconds.
+[15117.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13136.564 seconds.
+[15120.618s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15120.739s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15120.741s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15123.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13142.554 seconds.
+[15123.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13142.554 seconds.
+[15128.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13147.561 seconds.
+[15128.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13147.561 seconds.
+[15131.617s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15131.833s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15131.834s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15134.616s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13153.553 seconds.
+[15134.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13153.553 seconds.
+[15139.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13158.564 seconds.
+[15139.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13158.564 seconds.
+[15142.618s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15142.765s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15142.766s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15145.674s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13164.611 seconds.
+[15145.676s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13164.611 seconds.
+[15151.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13170.554 seconds.
+[15151.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13170.554 seconds.
+[15153.616s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15153.758s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15153.758s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15156.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13175.557 seconds.
+[15156.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13175.557 seconds.
+[15162.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13181.553 seconds.
+[15162.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13181.553 seconds.
+[15164.617s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15164.763s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15164.764s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15167.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13186.554 seconds.
+[15167.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13186.554 seconds.
+[15172.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13191.564 seconds.
+[15172.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13191.564 seconds.
+[15175.617s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15175.741s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15175.741s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15178.616s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13197.553 seconds.
+[15178.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13197.553 seconds.
+[15183.629s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13202.566 seconds.
+[15183.630s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13202.566 seconds.
+[15186.616s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15186.744s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15186.745s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15189.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13208.552 seconds.
+[15189.616s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13208.552 seconds.
+[15194.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13213.563 seconds.
+[15194.627s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13213.563 seconds.
+[15197.616s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15197.747s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15197.747s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15200.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13219.552 seconds.
+[15200.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13219.552 seconds.
+[15205.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13224.559 seconds.
+[15205.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13224.559 seconds.
+[15208.615s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15208.742s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15208.743s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15211.616s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13230.553 seconds.
+[15211.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13230.553 seconds.
+[15216.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13235.56 seconds.
+[15216.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13235.56 seconds.
+[15219.615s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15219.740s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15219.740s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15222.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13241.552 seconds.
+[15222.616s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13241.552 seconds.
+[15227.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13246.558 seconds.
+[15227.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13246.558 seconds.
+[15230.615s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15230.748s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15230.749s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15233.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13252.552 seconds.
+[15233.616s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13252.552 seconds.
+[15238.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13257.56 seconds.
+[15238.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13257.56 seconds.
+[15241.615s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15241.756s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15241.756s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15244.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13263.552 seconds.
+[15244.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13263.552 seconds.
+[15249.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13268.56 seconds.
+[15249.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13268.56 seconds.
+[15252.614s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15252.733s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15252.733s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15255.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13274.552 seconds.
+[15255.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13274.552 seconds.
+[15260.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13279.56 seconds.
+[15260.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13279.56 seconds.
+[15263.614s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15263.744s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15263.744s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15266.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13285.55 seconds.
+[15266.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13285.55 seconds.
+[15271.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13290.562 seconds.
+[15271.625s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13290.562 seconds.
+[15274.614s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15274.739s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15274.739s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15277.614s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13296.551 seconds.
+[15277.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13296.551 seconds.
+[15282.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13301.563 seconds.
+[15282.626s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13301.563 seconds.
+[15285.613s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15285.741s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15285.743s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15288.614s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13307.551 seconds.
+[15288.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13307.551 seconds.
+[15293.622s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13312.559 seconds.
+[15293.623s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13312.559 seconds.
+[15296.614s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15296.744s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15296.745s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15299.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13318.55 seconds.
+[15299.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13318.55 seconds.
+[15304.630s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13323.567 seconds.
+[15304.631s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13323.567 seconds.
+[15307.615s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15307.753s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15307.753s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15310.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13329.552 seconds.
+[15310.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13329.552 seconds.
+[15316.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13335.55 seconds.
+[15316.618s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13335.55 seconds.
+[15318.613s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15320.741s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15320.741s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15322.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13341.55 seconds.
+[15322.614s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13341.55 seconds.
+[15327.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13346.55 seconds.
+[15327.614s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13346.55 seconds.
+[15331.613s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15331.735s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15331.736s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15332.614s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13351.551 seconds.
+[15332.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13351.551 seconds.
+[15337.631s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13356.568 seconds.
+[15337.634s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13356.568 seconds.
+[15342.613s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15342.749s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15342.749s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15343.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13362.55 seconds.
+[15343.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13362.55 seconds.
+[15348.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13367.557 seconds.
+[15348.628s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13367.557 seconds.
+[15353.613s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15353.736s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15353.736s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15354.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13373.55 seconds.
+[15354.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13373.55 seconds.
+[15359.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13378.557 seconds.
+[15359.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13378.557 seconds.
+[15364.612s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15364.740s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15364.741s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15365.612s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13384.549 seconds.
+[15365.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13384.549 seconds.
+[15370.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13389.557 seconds.
+[15370.621s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13389.557 seconds.
+[15375.612s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15375.745s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15375.745s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15376.611s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13395.548 seconds.
+[15376.612s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13395.548 seconds.
+[15381.619s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13400.556 seconds.
+[15381.620s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13400.556 seconds.
+[15386.612s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15386.753s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15386.755s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15387.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13406.55 seconds.
+[15387.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13406.55 seconds.
+[15393.611s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13412.548 seconds.
+[15393.614s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13412.548 seconds.
+[15397.611s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15397.745s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15397.746s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15398.675s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13417.612 seconds.
+[15398.676s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13417.612 seconds.
+[15404.612s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13423.549 seconds.
+[15404.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13423.549 seconds.
+[15408.611s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15408.739s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15408.740s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15409.616s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13428.553 seconds.
+[15409.624s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13428.553 seconds.
+[15415.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13434.55 seconds.
+[15415.615s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13434.55 seconds.
+[15419.611s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15419.750s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15419.751s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15421.611s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13440.548 seconds.
+[15421.611s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13440.548 seconds.
+[15426.612s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13445.549 seconds.
+[15426.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13445.549 seconds.
+[15430.612s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15430.751s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15430.751s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15431.616s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13450.553 seconds.
+[15431.617s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13450.553 seconds.
+[15437.611s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13456.548 seconds.
+[15437.612s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13456.548 seconds.
+[15441.611s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] sending session query
+[15441.737s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] session query returned version 3, have 3
+[15441.737s]8 realtime.media.session.MediaSessionSyncer: [MAFKCk{#12}g] scheduling session query
+[15442.613s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received audio for 13461.55 seconds.
+[15442.614s]8 realtime.media.session.SessionImpl: [localSessionId=c408996331770697489_NMS] Session has not received video for 13461.55 seconds.
