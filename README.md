@@ -10,3 +10,5 @@ To deploy final project:
 2. Copy Charts.bundle.js to the %PIHOME64%\PIVision\Scripts\app\editor\symbols\ext\lib directory.
 3. Copy timeseries.png to the %PIHOME64%\PIVision\Scripts\app\editor\symbols\ext directory.
 
+![Screenshot](https://github.com/m2b/pivisionlearn/blob/master/Screen%20Shot.png)
+
