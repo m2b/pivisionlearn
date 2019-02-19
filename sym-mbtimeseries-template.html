@@ -1,0 +1,8 @@
+<div ng-style="symbolStyle" ng-mouseenter="changeBackgroundColor(true,'#00FF00')" ng-mouseleave="changeBackgroundColor(false)">
+   <!-- <pre>symbolStyle={{symbolStyle}}</pre> -->
+    <h2>Historical Data for: {{Label}} {{Units}} of type {{DataSource}}</h2>
+    <h2>Start Time={{StartTime}}</h2>
+    <h2>End Time={{EndTime}}</h2>
+    <h2>Number of items={{Values.length}}</h2>
+    <div ng-repeat='item in Values' ng-show='item.Value>0'>{{item.Time}}, {{item.Value | number: config.Decimals}} </div>
+</div>
